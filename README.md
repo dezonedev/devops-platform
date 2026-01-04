@@ -1,6 +1,6 @@
 # DevOps Platform — Cloud • CI/CD • Infrastructure as Code (IaC)
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Ce dépôt est une **plateforme DevOps complète, prête pour la production**, conçue pour démontrer une approche **professionnelle, industrialisée et reproductible** de la gestion du cycle de vie applicatif.
 
@@ -17,7 +17,7 @@ Il couvre **l’ensemble de la chaîne DevOps** :
 
 ---
 
-## 🧭 Philosophie DevOps
+## Philosophie DevOps
 
 Principes appliqués :
 
@@ -32,7 +32,7 @@ Principes appliqués :
 
 ---
 
-## 🏗️ Architecture globale
+## Architecture globale
 
 ### Vue d’ensemble
 
@@ -89,7 +89,7 @@ Documentation technique et opérationnelle.
 * `runbook.md` : procédures d’exploitation et incidents
 * `decisions.md` : choix techniques et arbitrages
 
-👉 La documentation fait partie intégrante du projet.
+ La documentation fait partie intégrante du projet.
 
 ---
 
@@ -115,7 +115,7 @@ Configuration système et déploiement applicatif.
 * Gestion des secrets via Ansible Vault
 * Playbooks idempotents
 
-👉 Terraform crée, Ansible configure.
+ Terraform crée, Ansible configure.
 
 ---
 
@@ -163,7 +163,7 @@ Déploiements **atomiques et reproductibles**.
 * Séparation base / overlays
 * Helm possible
 
-👉 Intégré dans une phase d’évolution du projet.
+Intégré dans une phase d’évolution du projet.
 
 ---
 
@@ -177,7 +177,7 @@ Scripts utilitaires :
 
 ---
 
-## 🚀 Déploiement from scratch
+## Déploiement from scratch
 
 ### Prérequis
 
@@ -195,7 +195,7 @@ Scripts utilitaires :
 4. Appliquer la configuration Ansible
 5. Déployer via CI/CD
 
-👉 Une plateforme complète peut être recréée **from scratch**.
+Une plateforme complète peut être recréée **from scratch**.
 
 ---
 
@@ -218,7 +218,7 @@ La sécurité est **native**, pas ajoutée après coup.
 * Alertes
 * Runbook d’intervention
 
-👉 Le projet est **opérable en conditions réelles**.
+Le projet est **opérable en conditions réelles**.
 
 ---
 
