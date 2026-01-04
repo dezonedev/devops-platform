@@ -67,12 +67,28 @@ devops-platform/
 ├── README.md
 ├── docs/
 ├── terraform/
+│   ├── modules/
+│   ├── envs/
+│   │   ├── dev/
+│   │   └── prod/
+│   └── backend.tf
 ├── ansible/
+│   ├── inventories/
+│   ├── roles/
+│   └── playbooks/
 ├── docker/
+│   ├── app/
+│   └── nginx/
 ├── app/
+│   ├── backend/
+│   └── frontend/
 ├── ci/
+│   └── github-actions/
 ├── k8s/
+│   ├── base/
+│   └── overlays/
 └── scripts/
+
 ```
 
 ---

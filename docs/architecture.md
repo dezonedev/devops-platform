@@ -1,0 +1,1 @@
+# Description détaillée de l'architecture
