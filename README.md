@@ -13,7 +13,7 @@ Il couvre **l’ensemble de la chaîne DevOps** :
 * déploiements atomiques
 * exploitation, supervision et sécurité
 
-👉 Ce projet est volontairement **orienté “réalité terrain”** et non académique.
+Ce projet est volontairement **orienté “réalité terrain”** et non académique.
 
 ---
 
@@ -240,6 +240,6 @@ Le projet est **opérable en conditions réelles**.
 * Multi-cloud
 * Zero Trust
 
----
+
 
 
